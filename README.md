@@ -51,8 +51,5 @@ This repository provides valuable resources for various purposes:
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and data while giving appropriate credit.
 
-Should you have any questions, require assistance, or wish to collaborate, please don't hesitate to reach out by creating an issue or contacting the repository owner.
 
-Feel free to star this repository if you find it useful!
 
-**ChatGPT**
