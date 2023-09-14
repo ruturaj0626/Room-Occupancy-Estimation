@@ -7,7 +7,7 @@ Welcome to the Room Occupancy Estimation repository, your comprehensive resource
 
 Our experiments unfolded within a precisely measured room, spanning 6 meters by 4.6 meters. We meticulously orchestrated a testbed comprising 7 sensor nodes and an edge node interconnected in a star configuration. These sensor nodes transmitted data wirelessly to the edge node at 30-second intervals. Importantly, HVAC systems remained inactive throughout the data collection phase to maintain consistent environmental conditions.
 
-## Sensor Types
+## Sensor Types 
 
 Our sensor array encompassed various non-intrusive sensors to capture multiple facets of the room environment:
 
