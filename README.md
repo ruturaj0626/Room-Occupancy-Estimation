@@ -17,7 +17,7 @@ Our sensor array encompassed various non-intrusive sensors to capture multiple f
 4. **CO2 (Carbon Dioxide)**: Assessing air quality by measuring CO2 levels. Rigorous calibration ensured data accuracy.
 5. **Digital Passive Infrared (PIR)**: Positioning PIR sensors on ceiling ledges for maximum motion detection coverage.
 
-## Calibration Details
+## Calibration Details 
 
 To guarantee data precision, our sensors underwent meticulous calibration:
 
