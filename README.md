@@ -1,7 +1,7 @@
 # Room Occupancy Estimation
 ![Room Occupancy Estimation](/Room%20Occupancy%20Estimation2.png)
  
-Welcome to the Room Occupancy Estimation repository, your comprehensive resource for exploring occupancy estimation using non-intrusive sensors in a controlled environment. Whether you're a researcher, developer, or just curious, this repository provides data, code, and insights to deepen your understanding.
+Welcome to the Room Occupancy Estimation repository, your comprehensive resource for exploring occupancy estimation using non-intrusive sensors in a controlled environment. Whether you're a researcher, developer, or just curious, this repository provides data, code, and insights to deepen your understanding. 
 
 ## Experimental Setup
 
